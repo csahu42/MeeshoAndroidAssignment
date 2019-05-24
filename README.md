@@ -1,4 +1,4 @@
-# MeeshoAndroidAssignment
+# Meesho Android Assignment
 Used MVVM Architecture
-Used RxJava and RxAndroid 
+RxJava and RxAndroid and 
 Android Architecture component (JetPack)
