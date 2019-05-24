@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="no_internet">No Connectivity</string>
+    <string name="retry">Retry</string>
+    <string name="hint_repo_owner">*Enter Repo Owner Id</string>
+    <string name="hint_repo_name">*Enter Repo Name</string>
+    <string name="btn_text">Get Pull List</string>
+    <string name="no_records_found">No Records Found</string>
+    <string name="github_open_pull_list">Github Open Pull List</string>
+</resources>
